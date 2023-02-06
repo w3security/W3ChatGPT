@@ -601,8 +601,8 @@ def main():
 
 if __name__ == "__main__":
     main()
-                sys.stdout.flush()
-            print()
+        sys.stdout.flush()
+        print()
 
 
 if __name__ == "__main__":
