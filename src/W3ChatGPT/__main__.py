@@ -4,7 +4,7 @@ import textwrap
 from os.path import exists
 from sys import argv
 
-from W3ChatGPT.W3ChatGPT import Chatbot
+from W3ChatGPT.w3ChatGPT import Chatbot
 
 
 def get_input(prompt):
