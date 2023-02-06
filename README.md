@@ -1,4 +1,6 @@
-# W3Chat Engineered ChatGPT API by OpenAI. Extensible for chatbots etc.
+<img src="https://github.com/w3security/w3Chat/blob/main/logo.png?raw=true" width="7%"></img>
+
+# W3Chat Developed ChatGPT API by OpenAI.
 
 # Official API (Browserless)
 
