@@ -370,7 +370,7 @@ def main():
     print(
         """
     ChatGPT - A command-line interface to OpenAI's ChatGPT (https://chat.openai.com/chat)
-    Repo: github.com/acheong08/ChatGPT
+    Repo: github.com/w3security/W3Chat
     """,
     )
     print("Type '!help' to show a full list of commands")
@@ -476,7 +476,9 @@ def main():
             print("ChatGPT: ")
             sys.stdout.flush()
             for response in chatbot.ask_stream(prompt, temperature=args.temperature):
-                print(response, end=""import argparse
+                print(response, end="")
+                
+import argparse
 import sys
 
 from W3ChatGPT.Official import Chatbot
@@ -486,7 +488,7 @@ def main():
     print(
         """
     ChatGPT - A command-line interface to OpenAI's ChatGPT (https://chat.openai.com/chat)
-    Repo: github.com/acheong08/ChatGPT
+    Repo: github.com/w3security/W3Chat
     """,
     )
     print("Type '!help' to show a full list of commands")
