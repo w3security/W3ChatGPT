@@ -3,15 +3,15 @@ from setuptools import find_packages
 from setuptools import setup
 
 setup(
-    name="W3Chat",
+    name="W3ChatGPT",
     version="1.1.5",
     license="GNU General Public License v2.0",
     author="W3Security",
     author_email="chat@log4j.codes",
-    description="w3Chat is a reverse engineering of OpenAI's ChatGPT API",
+    description="W3ChatGPT is a reverse engineering of OpenAI's ChatGPT API",
     packages=find_packages("src"),
     package_dir={"": "src"},
-    py_modules=["w3Chat", "GPTserver", "Official"],
+    py_modules=["W3ChatGPT", "GPTserver", "Official"],
     url="https://github.com/w3security/w3Chat",
     install_requires=[
         "openai",
@@ -31,9 +31,10 @@ setup(
     long_description_content_type="text/markdown",
     entry_points={
         "console_scripts": [
-            "w3Chat = w3Chat.__main__:main",
-            "w3ChatApiGPT = w3ChatGPT.GPTserver:main",
-            "OfficialChatGPT = w3ChatGPT.Official:main",
+            "W3ChatGPT = W3ChatGPT.__main__:main",
+            "W3ChatGPTApiGPT = W3ChatGPT.GPTserver:main",
+            "OfficialChatGPT = W3ChatGPT.Official:main",
         ],
     },
 )
+

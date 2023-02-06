@@ -370,7 +370,7 @@ def main():
     print(
         """
     ChatGPT - A command-line interface to OpenAI's ChatGPT (https://chat.openai.com/chat)
-    Repo: github.com/acheong08/ChatGPT
+    Repo: github.com/w3security/ChatGPT
     """,
     )
     print("Type '!help' to show a full list of commands")

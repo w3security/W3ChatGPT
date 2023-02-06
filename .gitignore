@@ -132,4 +132,4 @@ dmypy.json
 
 # JetBrains IDEs configuration
 .idea/
-src/W3Chat/test.py
+src/W3ChatGPT/test.py
