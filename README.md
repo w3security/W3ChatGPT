@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://github.com/w3security/w3Chat/blob/main/logo.png?raw=true" width="7%"></img>
-  <h1 align="center">W3ChatGPT</h1>/img>
+  <img src="https://github.com/w3security/w3Chat/blob/main/logo.png?raw=true" width="20%"></img>
+  <h1 align="center">W3ChatGPT</h1>
 </p>
 # W3Chat Developed ChatGPT API by OpenAI.
 
