@@ -1,3 +1,10 @@
 openai
 pre-commit
 tiktoken
+tls_client
+requests
+selenium
+twocaptcha
+flask
+argparse
+jsonify
