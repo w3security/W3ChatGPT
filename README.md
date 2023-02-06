@@ -13,7 +13,7 @@ COMPLETELY FREE AND NO RATE LIMITS (Unpatched Bug - Might be fixed later)
 
 ## Installation
 
-`pip3 install revChatGPT`
+`pip3 install W3ChatGPT`
 
 ## Setup
 
@@ -35,11 +35,11 @@ Both Async and Sync are available. You can also stream responses via a generator
 
 #### Example code
 
-You can find it [here](https://github.com/w3security/W3ChatGPT/blob/main/src/revChatGPT/Official.py#L292-L408)
+You can find it [here](https://github.com/w3security/W3ChatGPT/blob/main/src/W3ChatGPT/Official.py#L292-L408)
 
 #### Further Documentation
 
-In [wiki](https://github.com/w3security/W3ChatGPT/wiki/revChatGPT)
+In [wiki](https://github.com/w3security/W3ChatGPT/wiki/W3ChatGPT)
 
 #### Known issues
 
@@ -51,7 +51,7 @@ This breaks terms of service
 
 </summary>
 
-`pip3 install revChatGPT[unofficial]`
+`pip3 install W3ChatGPT[unofficial]`
 
 ## Configuration
 
@@ -61,7 +61,7 @@ Usage
 
 Command line
 
-`python3 -m revChatGPT`
+`python3 -m W3ChatGPT`
 
 !help - Show this message
 !reset - Forget the current conversation
